@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../RandomCodingProjects"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../gittest"
+		},
+		{
+			"path": "../testfolder"
+		}
+	],
+	"settings": {}
+}

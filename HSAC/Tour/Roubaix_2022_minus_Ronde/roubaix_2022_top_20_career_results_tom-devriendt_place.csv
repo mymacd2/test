@@ -1,0 +1,69 @@
+date,rank,stage_url,stage_name,nationality,class,distance,pcs_points,uci_points,vertical meters,profile score,won how
+2015-04-12,112.0,race/paris-roubaix/2015/result,Paris - Roubaix,FR,1.UWT,253.5,5,0.0,1033,2,Sprint of small group
+2015-03-29,,race/gent-wevelgem/2015/result,Gent - Wevelgem ME,BE,1.UWT,240.0,0,0.0,1506,37,6.2 km solo
+2015-03-27,124.0,race/e3-harelbeke/2015/result,E3 Harelbeke,BE,1.UWT,215.3,5,0.0,1866,58,4.5 km solo
+2016-04-17,,race/amstel-gold-race/2016/result,Amstel Gold Race,NL,1.UWT,248.7,0,0.0,3320,94,Sprint à deux
+2016-04-10,,race/paris-roubaix/2016/result,Paris - Roubaix,FR,1.UWT,257.5,0,0.0,1296,3,Sprint of small group
+2016-04-03,37.0,race/ronde-van-vlaanderen/2016/result,Ronde van Vlaanderen / Tour des Flandres ME,BE,1.UWT,255.0,5,10.0,2220,75,13.3 km solo
+2016-03-27,,race/gent-wevelgem/2016/result,Gent - Wevelgem in Flanders Fields ME,BE,1.UWT,242.0,0,0.0,1342,31,Sprint of 16 riders
+2017-05-01,,race/eschborn-frankfurt/2017/result,Eschborn-Frankfurt 'Rund um den Finanzplatz',DE,1.UWT,215.7,0,0.0,3144,108,Sprint of 16 riders
+2018-08-26,,race/bretagne-classic/2018/result,Bretagne Classic - Ouest-France,FR,1.UWT,256.9,0,0.0,2802,75,Sprint of 47 riders
+2018-08-19,71.0,race/renewi-tour/2018/stage-7,BinckBank Tour | Stage 7,BE,2.UWT,215.6,0,0.0,1702,61,Sprint of small group
+2018-08-18,125.0,race/renewi-tour/2018/stage-6,BinckBank Tour | Stage 6,BE,2.UWT,182.2,0,0.0,1473,28,1.2 km solo
+2018-08-17,8.0,race/renewi-tour/2018/stage-5,BinckBank Tour | Stage 5,BE,2.UWT,204.4,3,0.0,1015,5,Sprint of 126 riders
+2018-08-16,117.0,race/renewi-tour/2018/stage-4,BinckBank Tour | Stage 4,BE,2.UWT,165.5,0,0.0,233,0,1.1 km solo
+2018-08-15,154.0,race/renewi-tour/2018/stage-3,BinckBank Tour | Stage 3,BE,2.UWT,174.9,0,0.0,227,0,0.9 km solo
+2018-08-14,159.0,race/renewi-tour/2018/stage-2,BinckBank Tour | Stage 2 (ITT),BE,2.UWT,12.7,0,0.0,39,0,Time Trial
+2018-08-13,115.0,race/renewi-tour/2018/stage-1,BinckBank Tour | Stage 1,BE,2.UWT,177.3,0,0.0,161,0,Sprint of large group
+2018-04-15,43.0,race/amstel-gold-race/2018/result,Amstel Gold Race,NL,1.UWT,263.0,5,10.0,3496,103,Sprint à deux
+2018-04-01,30.0,race/ronde-van-vlaanderen/2018/result,Ronde van Vlaanderen - Tour des Flandres ME,BE,1.UWT,264.7,10,20.0,2166,78,19 km solo
+2018-03-28,,race/dwars-door-vlaanderen/2018/result,Dwars door Vlaanderen - A travers la Flandre ME,BE,1.UWT,180.0,0,0.0,1313,55,0.8 km solo
+2018-03-25,91.0,race/gent-wevelgem/2018/result,Gent-Wevelgem in Flanders Fields ME,BE,1.UWT,251.1,5,0.0,1532,46,Sprint of 19 riders
+2018-02-24,,race/omloop-het-nieuwsblad/2018/result,Omloop Het Nieuwsblad ME,BE,1.UWT,196.2,0,0.0,1652,58,2.2 km solo
+2019-10-22,111.0,race/tour-of-guangxi/2019/stage-6,Gree-Tour of Guangxi | Stage 6,CN,2.UWT,168.3,0,0.0,1275,43,Sprint of large group
+2019-10-21,32.0,race/tour-of-guangxi/2019/stage-5,Gree-Tour of Guangxi | Stage 5,CN,2.UWT,212.2,0,0.0,2133,78,Sprint of large group
+2019-10-20,100.0,race/tour-of-guangxi/2019/stage-4,Gree-Tour of Guangxi | Stage 4,CN,2.UWT,161.4,0,0.0,1589,61,Sprint à deux
+2019-10-19,116.0,race/tour-of-guangxi/2019/stage-3,Gree-Tour of Guangxi | Stage 3,CN,2.UWT,143.0,0,0.0,2190,89,Sprint of large group
+2019-10-18,52.0,race/tour-of-guangxi/2019/stage-2,Gree-Tour of Guangxi | Stage 2,CN,2.UWT,152.3,0,0.0,601,1,Sprint of large group
+2019-10-17,117.0,race/tour-of-guangxi/2019/stage-1,Gree-Tour of Guangxi | Stage 1,CN,2.UWT,135.6,0,0.0,537,17,Sprint of large group
+2019-08-18,,race/renewi-tour/2019/stage-7,BinckBank Tour | Stage 7,BE,2.UWT,173.1,0,0.0,1760,59,Sprint of small group
+2019-08-17,123.0,race/renewi-tour/2019/stage-6,BinckBank Tour | Stage 6 (ITT),BE,2.UWT,8.4,0,0.0,16,0,Time Trial
+2019-08-16,39.0,race/renewi-tour/2019/stage-5,BinckBank Tour | Stage 5,BE,2.UWT,191.4,0,0.0,193,1,Sprint of large group
+2019-08-15,36.0,race/renewi-tour/2019/stage-4,BinckBank Tour | Stage 4,BE,2.UWT,96.2,0,0.0,1547,81,Sprint of 15 riders
+2019-08-14,117.0,race/renewi-tour/2019/stage-3,BinckBank Tour | Stage 3,BE,2.UWT,166.9,0,0.0,285,0,Sprint of large group
+2019-08-13,137.0,race/renewi-tour/2019/stage-2,BinckBank Tour | Stage 2,BE,2.UWT,169.1,0,0.0,258,0,Sprint of large group
+2019-08-12,143.0,race/renewi-tour/2019/stage-1,BinckBank Tour | Stage 1,BE,2.UWT,167.2,0,0.0,139,0,Sprint of large group
+2019-04-14,37.0,race/paris-roubaix/2019/result,Paris-Roubaix,FR,1.UWT,257.0,5,10.0,1334,5,Sprint à deux
+2019-04-07,,race/ronde-van-vlaanderen/2019/result,Ronde van Vlaanderen - Tour des Flandres ME,BE,1.UWT,267.0,0,0.0,2164,72,17 km solo
+2019-03-31,,race/gent-wevelgem/2019/result,Gent-Wevelgem in Flanders Fields ME,BE,1.UWT,249.5,0,0.0,1511,37,Sprint of large group
+2019-03-29,,race/e3-harelbeke/2019/result,E3 BinckBank Classic,BE,1.UWT,204.0,0,0.0,2619,79,Sprint of 44 riders
+2019-03-27,135.0,race/oxyclean-classic-brugge-de-panne/2019/result,Driedaagse Brugge-De Panne ME,BE,1.UWT,200.3,5,0.0,647,5,Sprint of large group
+2019-03-02,47.0,race/omloop-het-nieuwsblad/2019/result,Omloop Het Nieuwsblad ME,BE,1.UWT,200.0,5,5.0,1653,47,2.5 km solo
+2020-08-15,,race/il-lombardia/2020/result,Il Lombardia,IT,1.UWT,231.0,0,0.0,3975,260,6.3 km solo
+2020-03-13,,race/paris-nice/2020/stage-6,Paris - Nice | Stage 6,FR,2.UWT,161.5,0,0.0,2895,145,12.8 km solo
+2020-03-12,101.0,race/paris-nice/2020/stage-5,Paris - Nice | Stage 5,FR,2.UWT,227.0,0,0.0,2681,62,Sprint of large group
+2020-03-11,93.0,race/paris-nice/2020/stage-4,Paris - Nice | Stage 4 (ITT),FR,2.UWT,15.1,0,0.0,225,19,Time Trial
+2020-03-10,127.0,race/paris-nice/2020/stage-3,Paris - Nice | Stage 3,FR,2.UWT,212.5,0,0.0,1787,17,Sprint of large group
+2020-03-09,121.0,race/paris-nice/2020/stage-2,Paris - Nice | Stage 2,FR,2.UWT,166.5,0,0.0,1173,19,Sprint of 17 riders
+2020-03-08,131.0,race/paris-nice/2020/stage-1,Paris - Nice | Stage 1,FR,2.UWT,154.0,0,0.0,1501,58,Sprint of 25 riders
+2021-10-03,,race/paris-roubaix/2021/result,Paris-Roubaix,FR,1.UWT,257.7,0,0.0,1360,5,Sprint of small group
+2021-08-29,,race/bretagne-classic/2021/result,Bretagne Classic - Ouest-France,FR,1.UWT,251.0,0,0.0,3695,116,Sprint à deux
+2021-03-06,,race/strade-bianche/2021/result,Strade Bianche,IT,1.UWT,184.0,0,0.0,3072,159,0.5 km solo
+2022-08-28,102.0,race/bretagne-classic/2022/result,Bretagne Classic - Ouest-France,FR,1.UWT,254.8,5,0.0,3116,95,Sprint of small group
+2022-05-01,76.0,race/eschborn-frankfurt/2022/result,Eschborn-Frankfurt,DE,1.UWT,185.0,5,0.0,2654,89,Sprint of large group
+2022-04-17,4.0,race/paris-roubaix/2022/result,Paris-Roubaix,FR,1.UWT,257.2,120,275.0,1362,5,19.5 km solo
+2022-04-10,54.0,race/amstel-gold-race/2022/result,Amstel Gold Race,NL,1.UWT,254.1,5,5.0,3460,112,Sprint à deux
+2022-04-03,66.0,race/ronde-van-vlaanderen/2022/result,Ronde van Vlaanderen - Tour des Flandres ME,BE,1.UWT,272.5,5,0.0,2289,79,Sprint of small group
+2022-03-23,,race/volta-a-catalunya/2022/stage-3,Volta Ciclista a Catalunya | Stage 3,ES,2.UWT,161.1,0,0.0,3394,175,7.2 km solo
+2022-03-22,138.0,race/volta-a-catalunya/2022/stage-2,Volta Ciclista a Catalunya | Stage 2,ES,2.UWT,202.4,0,0.0,2166,57,Sprint of large group
+2022-03-21,163.0,race/volta-a-catalunya/2022/stage-1,Volta Ciclista a Catalunya | Stage 1,ES,2.UWT,171.2,0,0.0,1688,58,Sprint of large group
+2022-02-26,105.0,race/uae-tour/2022/stage-7,UAE Tour | Stage 7,AE,2.UWT,148.0,0,0.0,1364,133,Sprint à deux
+2022-02-25,17.0,race/uae-tour/2022/stage-6,UAE Tour | Stage 6,AE,2.UWT,180.0,0,0.0,388,0,Sprint of small group
+2022-02-24,90.0,race/uae-tour/2022/stage-5,UAE Tour | Stage 5,AE,2.UWT,182.0,0,0.0,544,2,Sprint of large group
+2022-02-23,83.0,race/uae-tour/2022/stage-4,UAE Tour | Stage 4,AE,2.UWT,181.0,0,0.0,2646,188,Sprint of small group
+2022-02-22,83.0,race/uae-tour/2022/stage-3,UAE Tour | Stage 3 (ITT),AE,2.UWT,9.0,0,0.0,9,0,Time Trial
+2022-02-21,8.0,race/uae-tour/2022/stage-2,UAE Tour | Stage 2,AE,2.UWT,176.0,3,0.0,337,1,Sprint of large group
+2022-02-20,9.0,race/uae-tour/2022/stage-1,UAE Tour | Stage 1,AE,2.UWT,184.0,2,0.0,1303,20,Sprint of large group
+2023-04-16,,race/amstel-gold-race/2023/result,Amstel Gold Race,NL,1.UWT,253.6,0,0.0,3290,109,28.2 km solo
+2023-04-09,85.0,race/paris-roubaix/2023/result,Paris-Roubaix,FR,1.UWT,256.6,5,0.0,1380,4,15.1 km solo
+2023-03-24,,race/e3-harelbeke/2023/result,E3 Saxo Classic,BE,1.UWT,204.1,0,0.0,2017,58,Sprint of small group

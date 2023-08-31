@@ -1,0 +1,443 @@
+date,rank,stage_url,stage_name,nationality,class,distance,pcs_points,uci_points,vertical meters,profile score,won how
+2014-09-21,7.0,race/world-championship-ttt/2014/result,World Championships - TTT,ES,WC,57.12,0,0.0,Filler,Filler,Filler
+2014-09-14,9.0,race/vuelta-a-espana/2014/stage-21,Vuelta a España | Stage 21 (ITT),ES,2.UWT,9.7,8,0.0,121,9,Time Trial
+2014-09-13,155.0,race/vuelta-a-espana/2014/stage-20,Vuelta a España | Stage 20,ES,2.UWT,185.7,0,0.0,4447,395,0.5 km solo
+2014-09-12,8.0,race/vuelta-a-espana/2014/stage-19,Vuelta a España | Stage 19,ES,2.UWT,180.5,10,0.0,2319,122,5 km solo
+2014-09-11,138.0,race/vuelta-a-espana/2014/stage-18,Vuelta a España | Stage 18,ES,2.UWT,157.0,0,0.0,2384,172,Sprint à deux
+2014-09-10,4.0,race/vuelta-a-espana/2014/stage-17,Vuelta a España | Stage 17,ES,2.UWT,190.7,25,2.0,2761,94,Sprint of 42 riders
+2014-09-08,52.0,race/vuelta-a-espana/2014/stage-16,Vuelta a España | Stage 16,ES,2.UWT,160.5,0,0.0,4908,434,1 km solo
+2014-09-07,92.0,race/vuelta-a-espana/2014/stage-15,Vuelta a España | Stage 15,ES,2.UWT,152.2,0,0.0,2976,287,5.3 km solo
+2014-09-06,131.0,race/vuelta-a-espana/2014/stage-14,Vuelta a España | Stage 14,ES,2.UWT,200.8,0,0.0,4198,228,1.8 km solo
+2014-09-05,136.0,race/vuelta-a-espana/2014/stage-13,Vuelta a España | Stage 13,ES,2.UWT,188.7,0,0.0,3236,207,2 km solo
+2014-09-04,8.0,race/vuelta-a-espana/2014/stage-12,Vuelta a España | Stage 12,ES,2.UWT,166.4,10,0.0,1070,11,Sprint of large group
+2014-09-03,180.0,race/vuelta-a-espana/2014/stage-11,Vuelta a España | Stage 11,ES,2.UWT,153.4,0,0.0,2432,211,1 km solo
+2014-09-02,96.0,race/vuelta-a-espana/2014/stage-10,Vuelta a España | Stage 10 (ITT),ES,2.UWT,36.7,0,0.0,444,34,Time Trial
+2014-08-31,125.0,race/vuelta-a-espana/2014/stage-9,Vuelta a España | Stage 9,ES,2.UWT,185.0,0,0.0,3080,203,6.5 km solo
+2014-08-30,10.0,race/vuelta-a-espana/2014/stage-8,Vuelta a España | Stage 8,ES,2.UWT,207.0,6,0.0,1663,14,Sprint of 55 riders
+2014-08-29,66.0,race/vuelta-a-espana/2014/stage-7,Vuelta a España | Stage 7,ES,2.UWT,169.0,0,0.0,2744,126,13 km solo
+2014-08-28,83.0,race/vuelta-a-espana/2014/stage-6,Vuelta a España | Stage 6,ES,2.UWT,167.1,0,0.0,2977,175,Sprint of small group
+2014-08-27,4.0,race/vuelta-a-espana/2014/stage-5,Vuelta a España | Stage 5,ES,2.UWT,180.0,25,2.0,2149,72,Sprint of 58 riders
+2014-08-26,149.0,race/vuelta-a-espana/2014/stage-4,Vuelta a España | Stage 4,ES,2.UWT,164.7,0,0.0,1474,81,Sprint of 60 riders
+2014-08-25,59.0,race/vuelta-a-espana/2014/stage-3,Vuelta a España | Stage 3,ES,2.UWT,197.8,0,0.0,2917,107,Sprint of 17 riders
+2014-08-24,4.0,race/vuelta-a-espana/2014/stage-2,Vuelta a España | Stage 2,ES,2.UWT,174.4,25,2.0,1308,17,Sprint of large group
+2014-08-23,4.0,race/vuelta-a-espana/2014/stage-1,Vuelta a España | Stage 1 (TTT),ES,2.UWT,12.6,8,0.0,96,0,Time Trial
+2014-08-02,87.0,race/san-sebastian/2014/result,Clasica Ciclista San Sebastian,ES,1.UWT,219.2,5,0.0,3796,169,4 km solo
+2014-04-13,55.0,race/paris-roubaix/2014/result,Paris - Roubaix,FR,1.UWT,257.0,5,0.0,1318,6,6.3 km solo
+2014-04-06,61.0,race/ronde-van-vlaanderen/2014/result,Ronde van Vlaanderen / Tour des Flandres ME,BE,1.UWT,259.1,5,0.0,2095,75,Sprint of small group
+2014-03-28,,race/e3-harelbeke/2014/result,E3 Harelbeke,BE,1.UWT,211.0,0,0.0,1886,55,Sprint of 48 riders
+2015-08-30,,race/vuelta-a-espana/2015/stage-9,Vuelta a España | Stage 9,ES,2.UWT,168.3,0,0.0,2044,139,Sprint à deux
+2015-08-29,1.0,race/vuelta-a-espana/2015/stage-8,Vuelta a España | Stage 8,ES,2.UWT,182.5,80,16.0,1386,83,Sprint of 49 riders
+2015-08-28,120.0,race/vuelta-a-espana/2015/stage-7,Vuelta a España | Stage 7,ES,2.UWT,191.1,0,0.0,3318,204,Sprint à deux
+2015-08-27,94.0,race/vuelta-a-espana/2015/stage-6,Vuelta a España | Stage 6,ES,2.UWT,200.3,0,0.0,2908,112,2 km solo
+2015-08-26,20.0,race/vuelta-a-espana/2015/stage-5,Vuelta a España | Stage 5,ES,2.UWT,167.3,0,0.0,816,9,Sprint of large group
+2015-08-25,92.0,race/vuelta-a-espana/2015/stage-4,Vuelta a España | Stage 4,ES,2.UWT,209.6,0,0.0,2141,83,Sprint of 26 riders
+2015-08-24,8.0,race/vuelta-a-espana/2015/stage-3,Vuelta a España | Stage 3,ES,2.UWT,158.4,10,0.0,2613,104,Sprint of large group
+2015-08-23,93.0,race/vuelta-a-espana/2015/stage-2,Vuelta a España | Stage 2,ES,2.UWT,158.7,0,0.0,2597,147,Sprint à deux
+2015-08-22,6.0,race/vuelta-a-espana/2015/stage-1,Vuelta a España | Stage 1 (TTT),ES,2.UWT,7.4,0,0.0,17,0,Time Trial
+2015-08-16,53.0,race/renewi-tour/2015/stage-7,Eneco Tour | Stage 7,BE,2.UWT,193.8,0,0.0,1917,67,5.6 km solo
+2015-08-15,18.0,race/renewi-tour/2015/stage-6,Eneco Tour | Stage 6,BE,2.UWT,198.0,0,0.0,3520,155,22.3 km solo
+2015-08-14,47.0,race/renewi-tour/2015/stage-5,Eneco Tour | Stage 5,BE,2.UWT,179.6,0,0.0,2089,70,Sprint à deux
+2015-08-13,67.0,race/renewi-tour/2015/stage-4,Eneco Tour | Stage 4 (ITT),BE,2.UWT,13.9,0,0.0,60,0,Time Trial
+2015-08-12,80.0,race/renewi-tour/2015/stage-3,Eneco Tour | Stage 3,BE,2.UWT,171.9,0,0.0,334,0,Sprint of large group
+2015-08-11,32.0,race/renewi-tour/2015/stage-2,Eneco Tour | Stage 2,BE,2.UWT,180.0,0,0.0,312,0,Sprint of large group
+2015-08-10,42.0,race/renewi-tour/2015/stage-1,Eneco Tour | Stage 1,BE,2.UWT,183.5,0,0.0,161,0,Sprint of large group
+2015-08-01,,race/san-sebastian/2015/result,Clasica Ciclista San Sebastian,ES,1.UWT,219.0,0,0.0,3796,169,7.5 km solo
+2015-06-20,,race/tour-de-suisse/2015/stage-8,Tour de Suisse | Stage 8,CH,2.UWT,152.5,0,0.0,2138,92,Sprint à deux
+2015-06-19,125.0,race/tour-de-suisse/2015/stage-7,Tour de Suisse | Stage 7,CH,2.UWT,164.6,0,0.0,1604,40,Sprint of large group
+2015-06-18,13.0,race/tour-de-suisse/2015/stage-6,Tour de Suisse | Stage 6,CH,2.UWT,193.1,0,0.0,1296,21,Sprint of 62 riders
+2015-06-17,97.0,race/tour-de-suisse/2015/stage-5,Tour de Suisse | Stage 5,CH,2.UWT,237.3,0,0.0,4458,405,1.5 km solo
+2015-06-16,5.0,race/tour-de-suisse/2015/stage-4,Tour de Suisse | Stage 4,CH,2.UWT,193.2,10,1.0,2323,109,Sprint of large group
+2015-06-15,76.0,race/tour-de-suisse/2015/stage-3,Tour de Suisse | Stage 3,CH,2.UWT,117.3,0,0.0,2213,145,Sprint of 32 riders
+2015-06-14,135.0,race/tour-de-suisse/2015/stage-2,Tour de Suisse | Stage 2,CH,2.UWT,161.1,0,0.0,2023,127,0.7 km solo
+2015-06-13,45.0,race/tour-de-suisse/2015/prologue,Tour de Suisse | Prologue,CH,2.UWT,5.1,0,0.0,24,0,Time Trial
+2015-04-12,49.0,race/paris-roubaix/2015/result,Paris - Roubaix,FR,1.UWT,253.5,5,0.0,1033,2,Sprint of small group
+2015-04-05,32.0,race/ronde-van-vlaanderen/2015/result,Ronde van Vlaanderen / Tour des Flandres ME,BE,1.UWT,264.9,8,0.0,2174,68,Sprint à deux
+2015-03-28,,race/volta-a-catalunya/2015/stage-6,Volta Ciclista a Catalunya | Stage 6,ES,2.UWT,194.1,0,0.0,2463,62,Sprint of 63 riders
+2015-03-27,34.0,race/volta-a-catalunya/2015/stage-5,Volta Ciclista a Catalunya | Stage 5,ES,2.UWT,195.4,0,0.0,2020,68,4 km solo
+2015-03-26,142.0,race/volta-a-catalunya/2015/stage-4,Volta Ciclista a Catalunya | Stage 4,ES,2.UWT,188.4,0,0.0,3867,203,4.1 km solo
+2015-03-25,66.0,race/volta-a-catalunya/2015/stage-3,Volta Ciclista a Catalunya | Stage 3,ES,2.UWT,156.6,0,0.0,2219,98,2 km solo
+2015-03-24,117.0,race/volta-a-catalunya/2015/stage-2,Volta Ciclista a Catalunya | Stage 2,ES,2.UWT,191.8,0,0.0,2364,82,Sprint of large group
+2015-03-23,166.0,race/volta-a-catalunya/2015/stage-1,Volta Ciclista a Catalunya | Stage 1,ES,2.UWT,185.2,0,0.0,2557,71,Sprint of 120 riders
+2016-10-16,24.0,race/world-championship/2016/result,World Championships ME - Road Race,QA,WC,257.3,22,20.0,401,1,Sprint of 12 riders
+2016-10-01,,race/il-lombardia/2016/result,Il Lombardia,IT,1.UWT,240.0,0,0.0,5236,283,Sprint of small group
+2016-09-25,22.0,race/renewi-tour/2016/stage-7,Eneco Tour | Stage 7,BE,2.UWT,197.8,0,0.0,1694,62,Sprint of small group
+2016-09-24,53.0,race/renewi-tour/2016/stage-6,Eneco Tour | Stage 6,BE,2.UWT,185.2,0,0.0,1408,35,Sprint of 85 riders
+2016-09-23,15.0,race/renewi-tour/2016/stage-5,Eneco Tour | Stage 5 (TTT),BE,2.UWT,20.9,0,0.0,171,5,Time Trial
+2016-09-22,70.0,race/renewi-tour/2016/stage-4,Eneco Tour | Stage 4,BE,2.UWT,201.4,0,0.0,1397,35,Sprint of large group
+2016-09-21,27.0,race/renewi-tour/2016/stage-3,Eneco Tour | Stage 3,BE,2.UWT,182.3,0,0.0,344,0,Sprint of large group
+2016-09-20,90.0,race/renewi-tour/2016/stage-2,Eneco Tour | Stage 2 (ITT),BE,2.UWT,9.6,0,0.0,0,0,Time Trial
+2016-09-19,28.0,race/renewi-tour/2016/stage-1,Eneco Tour | Stage 1,BE,2.UWT,184.7,0,0.0,145,0,Sprint of large group
+2016-09-11,12.0,race/gp-montreal/2016/result,Grand Prix Cycliste de Montréal,CA,1.UWT,205.7,34,60.0,3779,177,Sprint of large group
+2016-09-09,50.0,race/gp-quebec/2016/result,Grand Prix Cycliste de Quebec,CA,1.UWT,201.6,5,10.0,2824,81,Sprint of 19 riders
+2016-08-28,47.0,race/bretagne-classic/2016/result,Bretagne Classic - Ouest-France,FR,1.UWT,247.0,5,8.0,2914,83,Sprint à deux
+2016-08-21,78.0,race/cyclassics-hamburg/2016/result,Cyclassics Hamburg,DE,1.UWT,217.7,5,0.0,1252,33,Sprint of large group
+2016-07-24,6.0,race/tour-de-france/2016/stage-21,Tour de France | Stage 21,FR,2.UWT,113.0,26,0.0,713,7,Sprint of large group
+2016-07-23,51.0,race/tour-de-france/2016/stage-20,Tour de France | Stage 20,FR,2.UWT,146.5,0,0.0,4127,314,8.5 km solo
+2016-07-22,135.0,race/tour-de-france/2016/stage-19,Tour de France | Stage 19,FR,2.UWT,146.0,0,0.0,4436,337,3.3 km solo
+2016-07-21,129.0,race/tour-de-france/2016/stage-18,Tour de France | Stage 18 (ITT),FR,2.UWT,17.0,0,0.0,676,104,Time Trial
+2016-07-20,68.0,race/tour-de-france/2016/stage-17,Tour de France | Stage 17,FR,2.UWT,184.5,0,0.0,3891,359,6.5 km solo
+2016-07-18,93.0,race/tour-de-france/2016/stage-16,Tour de France | Stage 16,FR,2.UWT,209.0,0,0.0,1967,48,Sprint of large group
+2016-07-17,148.0,race/tour-de-france/2016/stage-15,Tour de France | Stage 15,FR,2.UWT,159.0,0,0.0,4386,286,Sprint à deux
+2016-07-16,25.0,race/tour-de-france/2016/stage-14,Tour de France | Stage 14,FR,2.UWT,208.5,0,0.0,1958,30,Sprint of large group
+2016-07-15,91.0,race/tour-de-france/2016/stage-13,Tour de France | Stage 13 (ITT),FR,2.UWT,37.5,0,0.0,752,54,Time Trial
+2016-07-14,64.0,race/tour-de-france/2016/stage-12,Tour de France | Stage 12,FR,2.UWT,178.0,0,0.0,2416,268,Sprint à deux
+2016-07-13,6.0,race/tour-de-france/2016/stage-11,Tour de France | Stage 11,FR,2.UWT,162.5,26,0.0,1381,24,Sprint of 3 riders
+2016-07-12,17.0,race/tour-de-france/2016/stage-10,Tour de France | Stage 10,FR,2.UWT,197.0,0,0.0,2432,80,Sprint of 127 riders
+2016-07-10,167.0,race/tour-de-france/2016/stage-9,Tour de France | Stage 9,FR,2.UWT,184.0,0,0.0,4948,366,12.8 km solo
+2016-07-09,190.0,race/tour-de-france/2016/stage-8,Tour de France | Stage 8,FR,2.UWT,184.0,0,0.0,4597,302,15.5 km solo
+2016-07-08,89.0,race/tour-de-france/2016/stage-7,Tour de France | Stage 7,FR,2.UWT,162.5,0,0.0,2578,176,26.8 km solo
+2016-07-07,82.0,race/tour-de-france/2016/stage-6,Tour de France | Stage 6,FR,2.UWT,190.5,0,0.0,2025,47,Sprint of large group
+2016-07-06,165.0,race/tour-de-france/2016/stage-5,Tour de France | Stage 5,FR,2.UWT,216.0,0,0.0,4105,225,17.4 km solo
+2016-07-05,111.0,race/tour-de-france/2016/stage-4,Tour de France | Stage 4,FR,2.UWT,237.5,0,0.0,1934,47,Sprint of large group
+2016-07-04,92.0,race/tour-de-france/2016/stage-3,Tour de France | Stage 3,FR,2.UWT,223.5,0,0.0,1975,20,Sprint of large group
+2016-07-03,66.0,race/tour-de-france/2016/stage-2,Tour de France | Stage 2,FR,2.UWT,183.0,0,0.0,1985,70,Sprint of large group
+2016-07-02,12.0,race/tour-de-france/2016/stage-1,Tour de France | Stage 1,FR,2.UWT,188.0,6,0.0,1071,10,Sprint of large group
+2016-06-19,69.0,race/tour-de-suisse/2016/stage-9,Tour de Suisse | Stage 9,CH,2.UWT,57.0,0,0.0,2625,210,Sprint of 11 riders
+2016-06-18,59.0,race/tour-de-suisse/2016/stage-8,Tour de Suisse | Stage 8 (ITT),CH,2.UWT,16.8,0,0.0,260,24,Time Trial
+2016-06-17,128.0,race/tour-de-suisse/2016/stage-7,Tour de Suisse | Stage 7,CH,2.UWT,224.3,0,0.0,5041,412,4.7 km solo
+2016-06-16,90.0,race/tour-de-suisse/2016/stage-6,Tour de Suisse | Stage 6,CH,2.UWT,162.8,0,0.0,3763,309,7.6 km solo
+2016-06-15,76.0,race/tour-de-suisse/2016/stage-5,Tour de Suisse | Stage 5,CH,2.UWT,126.4,0,0.0,3550,307,6.6 km solo
+2016-06-14,5.0,race/tour-de-suisse/2016/stage-4,Tour de Suisse | Stage 4,CH,2.UWT,193.0,10,0.0,2305,61,Sprint of large group
+2016-06-13,122.0,race/tour-de-suisse/2016/stage-3,Tour de Suisse | Stage 3,CH,2.UWT,192.6,0,0.0,2129,112,Sprint of large group
+2016-06-12,6.0,race/tour-de-suisse/2016/stage-2,Tour de Suisse | Stage 2,CH,2.UWT,187.6,7,0.0,2779,82,Sprint of large group
+2016-06-11,17.0,race/tour-de-suisse/2016/stage-1,Tour de Suisse | Stage 1 (ITT),CH,2.UWT,6.4,0,0.0,46,1,Time Trial
+2016-04-10,39.0,race/paris-roubaix/2016/result,Paris - Roubaix,FR,1.UWT,257.5,5,10.0,1296,3,Sprint of small group
+2016-04-03,118.0,race/ronde-van-vlaanderen/2016/result,Ronde van Vlaanderen / Tour des Flandres ME,BE,1.UWT,255.0,5,0.0,2220,75,13.3 km solo
+2016-03-25,5.0,race/e3-harelbeke/2016/result,E3 Harelbeke,BE,1.UWT,206.0,80,180.0,1779,50,Sprint à deux
+2016-03-15,64.0,race/tirreno-adriatico/2016/stage-7,Tirreno-Adriatico | Stage 7 (ITT),IT,2.UWT,10.05,0,0.0,16,0,Time Trial
+2016-03-14,101.0,race/tirreno-adriatico/2016/stage-6,Tirreno-Adriatico | Stage 6,IT,2.UWT,210.0,0,0.0,1277,38,Sprint of 64 riders
+2016-03-12,51.0,race/tirreno-adriatico/2016/stage-4,Tirreno-Adriatico | Stage 4,IT,2.UWT,222.0,0,0.0,2716,115,3.5 km solo
+2016-03-11,39.0,race/tirreno-adriatico/2016/stage-3,Tirreno-Adriatico | Stage 3,IT,2.UWT,176.0,0,0.0,1946,68,Sprint of large group
+2016-03-10,89.0,race/tirreno-adriatico/2016/stage-2,Tirreno-Adriatico | Stage 2,IT,2.UWT,207.0,0,0.0,1953,92,3 km solo
+2016-03-09,7.0,race/tirreno-adriatico/2016/stage-1,Tirreno-Adriatico | Stage 1 (TTT),IT,2.UWT,22.7,0,0.0,6,0,Time Trial
+2017-09-24,89.0,race/world-championship/2017/result,World Championships ME - Road Race,NO,WC,267.5,15,0.0,Filler,Filler,Filler
+2017-09-10,14.0,race/gp-montreal/2017/result,Grand Prix Cycliste de Montréal,CA,1.UWT,205.7,26,40.0,3779,177,Sprint of 18 riders
+2017-09-08,18.0,race/gp-quebec/2017/result,Grand Prix Cycliste de Québec,CA,1.UWT,201.6,17,30.0,2824,81,Sprint of large group
+2017-08-27,,race/bretagne-classic/2017/result,Bretagne Classic - Ouest-France,FR,1.UWT,239.7,0,0.0,3176,98,Sprint of large group
+2017-08-20,7.0,race/cyclassics-hamburg/2017/result,Cyclassics Hamburg,DE,1.UWT,220.9,60,120.0,1236,31,Sprint of large group
+2017-08-13,1.0,race/renewi-tour/2017/stage-7,BinckBank Tour | Stage 7,BE,2.UWT,193.5,50,50.0,1064,43,3 km solo
+2017-08-12,3.0,race/renewi-tour/2017/stage-6,BinckBank Tour | Stage 6,BE,2.UWT,196.9,18,8.0,3027,91,Sprint à deux
+2017-08-11,5.0,race/renewi-tour/2017/stage-5,BinckBank Tour | Stage 5,BE,2.UWT,164.9,10,0.0,1371,30,1.5 km solo
+2017-08-10,21.0,race/renewi-tour/2017/stage-4,BinckBank Tour | Stage 4,BE,2.UWT,160.7,0,0.0,831,5,Sprint of large group
+2017-08-09,20.0,race/renewi-tour/2017/stage-3,BinckBank Tour | Stage 3,BE,2.UWT,186.0,0,0.0,342,0,Sprint of large group
+2017-08-08,35.0,race/renewi-tour/2017/stage-2,BinckBank Tour | Stage 2 (ITT),BE,2.UWT,9.0,0,0.0,5,0,Time Trial
+2017-08-07,69.0,race/renewi-tour/2017/stage-1,BinckBank Tour | Stage 1,BE,2.UWT,179.7,0,0.0,280,0,Sprint of large group
+2017-07-30,68.0,race/ride-london-classic/2017/result,Prudential RideLondon-Surrey Classic,GB,1.UWT,185.9,5,0.0,1648,35,Sprint of large group
+2017-05-28,22.0,race/giro-d-italia/2017/stage-21,Giro d'Italia | Stage 21 (ITT),IT,2.UWT,29.3,0,0.0,25,0,Time Trial
+2017-05-27,157.0,race/giro-d-italia/2017/stage-20,Giro d'Italia | Stage 20,IT,2.UWT,190.0,0,0.0,3721,227,Sprint of small group
+2017-05-26,159.0,race/giro-d-italia/2017/stage-19,Giro d'Italia | Stage 19,IT,2.UWT,191.0,0,0.0,3551,250,10.8 km solo
+2017-05-25,39.0,race/giro-d-italia/2017/stage-18,Giro d'Italia | Stage 18,IT,2.UWT,137.0,0,0.0,3961,281,Sprint à deux
+2017-05-24,27.0,race/giro-d-italia/2017/stage-17,Giro d'Italia | Stage 17,IT,2.UWT,219.0,0,0.0,4576,166,7.8 km solo
+2017-05-23,103.0,race/giro-d-italia/2017/stage-16,Giro d'Italia | Stage 16,IT,2.UWT,222.0,0,0.0,5845,329,Sprint à deux
+2017-05-21,76.0,race/giro-d-italia/2017/stage-15,Giro d'Italia | Stage 15,IT,2.UWT,199.0,0,0.0,2255,129,Sprint of 12 riders
+2017-05-20,153.0,race/giro-d-italia/2017/stage-14,Giro d'Italia | Stage 14,IT,2.UWT,131.0,0,0.0,1106,129,Sprint à deux
+2017-05-19,3.0,race/giro-d-italia/2017/stage-13,Giro d'Italia | Stage 13,IT,2.UWT,167.0,35,20.0,399,0,Sprint of large group
+2017-05-18,9.0,race/giro-d-italia/2017/stage-12,Giro d'Italia | Stage 12,IT,2.UWT,229.0,8,0.0,2407,50,Sprint of large group
+2017-05-17,160.0,race/giro-d-italia/2017/stage-11,Giro d'Italia | Stage 11,IT,2.UWT,161.0,0,0.0,3912,183,Sprint of 16 riders
+2017-05-16,161.0,race/giro-d-italia/2017/stage-10,Giro d'Italia | Stage 10 (ITT),IT,2.UWT,39.8,0,0.0,505,35,Time Trial
+2017-05-14,138.0,race/giro-d-italia/2017/stage-9,Giro d'Italia | Stage 9,IT,2.UWT,152.0,0,0.0,2921,308,4.6 km solo
+2017-05-13,76.0,race/giro-d-italia/2017/stage-8,Giro d'Italia | Stage 8,IT,2.UWT,189.0,0,0.0,2127,110,0.9 km solo
+2017-05-12,5.0,race/giro-d-italia/2017/stage-7,Giro d'Italia | Stage 7,IT,2.UWT,224.0,18,4.0,1340,27,Sprint of large group
+2017-05-11,2.0,race/giro-d-italia/2017/stage-6,Giro d'Italia | Stage 6,IT,2.UWT,217.0,50,40.0,2247,72,Sprint of 25 riders
+2017-05-10,9.0,race/giro-d-italia/2017/stage-5,Giro d'Italia | Stage 5,IT,2.UWT,159.0,8,0.0,1780,43,Sprint of large group
+2017-05-09,107.0,race/giro-d-italia/2017/stage-4,Giro d'Italia | Stage 4,IT,2.UWT,181.0,0,0.0,4170,298,16.6 km solo
+2017-05-07,88.0,race/giro-d-italia/2017/stage-3,Giro d'Italia | Stage 3,IT,2.UWT,148.0,0,0.0,1441,41,Sprint of 47 riders
+2017-05-06,3.0,race/giro-d-italia/2017/stage-2,Giro d'Italia | Stage 2,IT,2.UWT,221.0,35,20.0,3518,91,Sprint of large group
+2017-05-05,7.0,race/giro-d-italia/2017/stage-1,Giro d'Italia | Stage 1,IT,2.UWT,206.0,12,0.0,2176,51,0.7 km solo
+2017-05-01,7.0,race/eschborn-frankfurt/2017/result,Eschborn-Frankfurt 'Rund um den Finanzplatz',DE,1.UWT,215.7,60,95.0,3144,108,Sprint of 16 riders
+2017-04-09,4.0,race/paris-roubaix/2017/result,Paris-Roubaix,FR,1.UWT,257.0,120,275.0,1299,5,Sprint of 16 riders
+2017-04-02,51.0,race/ronde-van-vlaanderen/2017/result,Ronde van Vlaanderen / Tour des Flandres ME,BE,1.UWT,260.0,5,5.0,2118,71,56 km solo
+2017-03-26,46.0,race/gent-wevelgem/2017/result,Gent-Wevelgem in Flanders Fields ME,BE,1.UWT,249.0,5,10.0,1546,43,Sprint à deux
+2017-03-24,,race/e3-harelbeke/2017/result,Record Bank E3 Harelbeke,BE,1.UWT,206.1,0,0.0,1863,51,Sprint of 16 riders
+2017-03-18,39.0,race/milano-sanremo/2017/result,Milano-Sanremo,IT,1.UWT,291.0,5,10.0,2166,65,Sprint of 50 riders
+2017-03-14,92.0,race/tirreno-adriatico/2017/stage-7,Tirreno-Adriatico | Stage 7 (ITT),IT,2.UWT,10.05,0,0.0,13,0,Time Trial
+2017-03-13,3.0,race/tirreno-adriatico/2017/stage-6,Tirreno-Adriatico | Stage 6,IT,2.UWT,168.0,18,10.0,2063,71,Sprint of 62 riders
+2017-03-12,47.0,race/tirreno-adriatico/2017/stage-5,Tirreno-Adriatico | Stage 5,IT,2.UWT,209.0,0,0.0,3410,188,Sprint of small group
+2017-03-11,127.0,race/tirreno-adriatico/2017/stage-4,Tirreno-Adriatico | Stage 4,IT,2.UWT,171.0,0,0.0,3453,269,2 km solo
+2017-03-10,76.0,race/tirreno-adriatico/2017/stage-3,Tirreno-Adriatico | Stage 3,IT,2.UWT,204.0,0,0.0,2291,55,Sprint of 121 riders
+2017-03-09,46.0,race/tirreno-adriatico/2017/stage-2,Tirreno-Adriatico | Stage 2,IT,2.UWT,229.0,0,0.0,2370,107,4.2 km solo
+2017-03-08,12.0,race/tirreno-adriatico/2017/stage-1,Tirreno-Adriatico | Stage 1 (TTT),IT,2.UWT,22.7,0,0.0,5,0,Time Trial
+2017-03-04,40.0,race/strade-bianche/2017/result,Strade Bianche,IT,1.UWT,175.0,5,5.0,2938,147,15.6 km solo
+2017-02-25,8.0,race/omloop-het-nieuwsblad/2017/result,Omloop Het Nieuwsblad ME,BE,1.UWT,198.3,50,75.0,1778,33,Sprint of 11 riders
+2018-10-21,16.0,race/tour-of-guangxi/2018/stage-6,Gree-Tour of Guangxi | Stage 6,CN,2.UWT,169.0,0,0.0,969,23,Sprint of large group
+2018-10-20,3.0,race/tour-of-guangxi/2018/stage-5,Gree-Tour of Guangxi | Stage 5,CN,2.UWT,212.2,18,6.0,2125,69,Sprint of large group
+2018-10-19,64.0,race/tour-of-guangxi/2018/stage-4,Gree-Tour of Guangxi | Stage 4,CN,2.UWT,152.2,0,0.0,1178,56,1 km solo
+2018-10-18,32.0,race/tour-of-guangxi/2018/stage-3,Gree-Tour of Guangxi | Stage 3,CN,2.UWT,125.4,0,0.0,798,11,Sprint of large group
+2018-10-17,11.0,race/tour-of-guangxi/2018/stage-2,Gree-Tour of Guangxi | Stage 2,CN,2.UWT,145.2,0,0.0,485,0,Sprint of large group
+2018-10-16,8.0,race/tour-of-guangxi/2018/stage-1,Gree-Tour of Guangxi | Stage 1,CN,2.UWT,107.4,3,0.0,339,14,Sprint of large group
+2018-09-09,14.0,race/gp-montreal/2018/result,Grand Prix Cycliste de Montréal,CA,1.UWT,195.2,26,40.0,3564,169,Sprint of large group
+2018-09-07,3.0,race/gp-quebec/2018/result,Grand Prix Cycliste de Québec,CA,1.UWT,201.6,110,325.0,2508,64,Sprint of large group
+2018-08-19,12.0,race/renewi-tour/2018/stage-7,BinckBank Tour | Stage 7,BE,2.UWT,215.6,0,0.0,1702,61,Sprint of small group
+2018-08-18,22.0,race/renewi-tour/2018/stage-6,BinckBank Tour | Stage 6,BE,2.UWT,182.2,0,0.0,1473,28,1.2 km solo
+2018-08-17,17.0,race/renewi-tour/2018/stage-5,BinckBank Tour | Stage 5,BE,2.UWT,204.4,0,0.0,1015,5,Sprint of 126 riders
+2018-08-16,1.0,race/renewi-tour/2018/stage-4,BinckBank Tour | Stage 4,BE,2.UWT,165.5,50,50.0,233,0,1.1 km solo
+2018-08-15,19.0,race/renewi-tour/2018/stage-3,BinckBank Tour | Stage 3,BE,2.UWT,174.9,0,0.0,227,0,0.9 km solo
+2018-08-14,32.0,race/renewi-tour/2018/stage-2,BinckBank Tour | Stage 2 (ITT),BE,2.UWT,12.7,0,0.0,39,0,Time Trial
+2018-08-13,9.0,race/renewi-tour/2018/stage-1,BinckBank Tour | Stage 1,BE,2.UWT,177.3,2,0.0,161,0,Sprint of large group
+2018-07-29,23.0,race/tour-de-france/2018/stage-21,Tour de France | Stage 21,FR,2.UWT,116.0,0,0.0,732,6,Sprint of large group
+2018-07-28,72.0,race/tour-de-france/2018/stage-20,Tour de France | Stage 20 (ITT),FR,2.UWT,31.0,0,0.0,543,46,Time Trial
+2018-07-27,109.0,race/tour-de-france/2018/stage-19,Tour de France | Stage 19,FR,2.UWT,200.5,0,0.0,5046,290,8 km solo
+2018-07-26,28.0,race/tour-de-france/2018/stage-18,Tour de France | Stage 18,FR,2.UWT,171.0,0,0.0,1312,34,Sprint of large group
+2018-07-25,64.0,race/tour-de-france/2018/stage-17,Tour de France | Stage 17,FR,2.UWT,65.0,0,0.0,3274,428,8 km solo
+2018-07-24,68.0,race/tour-de-france/2018/stage-16,Tour de France | Stage 16,FR,2.UWT,218.0,0,0.0,3521,202,? km solo
+2018-07-22,97.0,race/tour-de-france/2018/stage-15,Tour de France | Stage 15,FR,2.UWT,181.0,0,0.0,2917,118,Sprint of 15 riders
+2018-07-21,3.0,race/tour-de-france/2018/stage-14,Tour de France | Stage 14,FR,2.UWT,188.0,50,25.0,3365,189,2 km solo
+2018-07-20,33.0,race/tour-de-france/2018/stage-13,Tour de France | Stage 13,FR,2.UWT,169.5,0,0.0,1302,46,Sprint of large group
+2018-07-19,102.0,race/tour-de-france/2018/stage-12,Tour de France | Stage 12,FR,2.UWT,175.5,0,0.0,5362,405,Sprint of small group
+2018-07-18,104.0,race/tour-de-france/2018/stage-11,Tour de France | Stage 11,FR,2.UWT,108.5,0,0.0,4093,349,0.4 km solo
+2018-07-17,62.0,race/tour-de-france/2018/stage-10,Tour de France | Stage 10,FR,2.UWT,158.5,0,0.0,4254,320,29.4 km solo
+2018-07-15,6.0,race/tour-de-france/2018/stage-9,Tour de France | Stage 9,FR,2.UWT,156.5,26,0.0,618,1,Sprint of 27 riders
+2018-07-14,43.0,race/tour-de-france/2018/stage-8,Tour de France | Stage 8,FR,2.UWT,181.0,0,0.0,1284,17,Sprint of large group
+2018-07-13,62.0,race/tour-de-france/2018/stage-7,Tour de France | Stage 7,FR,2.UWT,231.0,0,0.0,2255,40,Sprint of large group
+2018-07-12,130.0,race/tour-de-france/2018/stage-6,Tour de France | Stage 6,FR,2.UWT,181.0,0,0.0,2027,95,1.1 km solo
+2018-07-11,28.0,race/tour-de-france/2018/stage-5,Tour de France | Stage 5,FR,2.UWT,204.5,0,0.0,2704,107,Sprint of large group
+2018-07-10,38.0,race/tour-de-france/2018/stage-4,Tour de France | Stage 4,FR,2.UWT,195.0,0,0.0,1155,14,Sprint of large group
+2018-07-09,14.0,race/tour-de-france/2018/stage-3,Tour de France | Stage 3 (TTT),FR,2.UWT,35.5,0,0.0,387,13,Time Trial
+2018-07-08,12.0,race/tour-de-france/2018/stage-2,Tour de France | Stage 2,FR,2.UWT,182.5,6,0.0,1395,14,Sprint of large group
+2018-07-07,21.0,race/tour-de-france/2018/stage-1,Tour de France | Stage 1,FR,2.UWT,201.0,0,0.0,454,2,Sprint of large group
+2018-06-17,121.0,race/tour-de-suisse/2018/stage-9,Tour de Suisse | Stage 9 (ITT),CH,2.UWT,34.0,0,0.0,252,5,Time Trial
+2018-06-16,5.0,race/tour-de-suisse/2018/stage-8,Tour de Suisse | Stage 8,CH,2.UWT,123.0,10,0.0,824,11,Sprint of large group
+2018-06-15,82.0,race/tour-de-suisse/2018/stage-7,Tour de Suisse | Stage 7,CH,2.UWT,170.0,0,0.0,2870,215,? km solo
+2018-06-14,73.0,race/tour-de-suisse/2018/stage-6,Tour de Suisse | Stage 6,CH,2.UWT,186.0,0,0.0,3436,148,1.4 km solo
+2018-06-13,66.0,race/tour-de-suisse/2018/stage-5,Tour de Suisse | Stage 5,CH,2.UWT,155.0,0,0.0,2668,211,Sprint of large group
+2018-06-12,17.0,race/tour-de-suisse/2018/stage-4,Tour de Suisse | Stage 4,CH,2.UWT,189.0,0,0.0,2467,74,4.4 km solo
+2018-06-11,8.0,race/tour-de-suisse/2018/stage-3,Tour de Suisse | Stage 3,CH,2.UWT,182.0,3,0.0,2260,106,Sprint of large group
+2018-06-10,18.0,race/tour-de-suisse/2018/stage-2,Tour de Suisse | Stage 2,CH,2.UWT,155.0,0,0.0,1817,79,Sprint of large group
+2018-06-09,13.0,race/tour-de-suisse/2018/stage-1,Tour de Suisse | Stage 1 (TTT),CH,2.UWT,18.0,0,0.0,180,11,Time Trial
+2018-05-19,28.0,race/tour-of-california/2018/stage-7,Amgen Tour of California | Stage 7,US,2.UWT,143.0,0,0.0,167,0,Sprint of large group
+2018-05-18,36.0,race/tour-of-california/2018/stage-6,Amgen Tour of California | Stage 6,US,2.UWT,196.5,0,0.0,4625,203,10 km solo
+2018-05-17,45.0,race/tour-of-california/2018/stage-5,Amgen Tour of California | Stage 5,US,2.UWT,176.5,0,0.0,670,5,Sprint of large group
+2018-05-16,54.0,race/tour-of-california/2018/stage-4,Amgen Tour of California | Stage 4 (ITT),US,2.UWT,34.7,0,0.0,199,4,Time Trial
+2018-05-15,48.0,race/tour-of-california/2018/stage-3,Amgen Tour of California | Stage 3,US,2.UWT,197.0,0,0.0,2462,135,3.5 km solo
+2018-05-14,68.0,race/tour-of-california/2018/stage-2,Amgen Tour of California | Stage 2,US,2.UWT,157.0,0,0.0,2488,248,2 km solo
+2018-05-13,61.0,race/tour-of-california/2018/stage-1,Amgen Tour of California | Stage 1,US,2.UWT,134.5,0,0.0,277,0,Sprint of large group
+2018-04-15,,race/amstel-gold-race/2018/result,Amstel Gold Race,NL,1.UWT,263.0,0,0.0,3496,103,Sprint à deux
+2018-04-08,5.0,race/paris-roubaix/2018/result,Paris-Roubaix,FR,1.UWT,257.0,100,225.0,1309,4,Sprint à deux
+2018-04-01,7.0,race/ronde-van-vlaanderen/2018/result,Ronde van Vlaanderen - Tour des Flandres ME,BE,1.UWT,264.7,80,150.0,2166,78,19 km solo
+2018-03-28,10.0,race/dwars-door-vlaanderen/2018/result,Dwars door Vlaanderen - A travers la Flandre ME,BE,1.UWT,180.0,42,50.0,1313,55,0.8 km solo
+2018-03-25,9.0,race/gent-wevelgem/2018/result,Gent-Wevelgem in Flanders Fields ME,BE,1.UWT,251.1,46,100.0,1532,46,Sprint of 19 riders
+2018-03-23,6.0,race/e3-harelbeke/2018/result,Record Bank E3 Harelbeke,BE,1.UWT,206.5,70,140.0,1859,46,30 km solo
+2018-03-17,10.0,race/milano-sanremo/2018/result,Milano-Sanremo,IT,1.UWT,294.0,50,85.0,2143,61,7.1 km solo
+2018-03-13,92.0,race/tirreno-adriatico/2018/stage-7,Tirreno-Adriatico | Stage 7 (ITT),IT,2.UWT,10.05,0,0.0,9,0,Time Trial
+2018-03-12,11.0,race/tirreno-adriatico/2018/stage-6,Tirreno-Adriatico | Stage 6,IT,2.UWT,153.0,0,0.0,1933,43,Sprint of large group
+2018-03-11,38.0,race/tirreno-adriatico/2018/stage-5,Tirreno-Adriatico | Stage 5,IT,2.UWT,178.0,0,0.0,1946,133,4 km solo
+2018-03-10,98.0,race/tirreno-adriatico/2018/stage-4,Tirreno-Adriatico | Stage 4,IT,2.UWT,219.0,0,0.0,4704,316,Sprint of 10 riders
+2018-03-09,43.0,race/tirreno-adriatico/2018/stage-3,Tirreno-Adriatico | Stage 3,IT,2.UWT,239.0,0,0.0,3177,126,1 km solo
+2018-03-08,65.0,race/tirreno-adriatico/2018/stage-2,Tirreno-Adriatico | Stage 2,IT,2.UWT,167.0,0,0.0,776,6,Sprint of large group
+2018-03-07,8.0,race/tirreno-adriatico/2018/stage-1,Tirreno-Adriatico | Stage 1 (TTT),IT,2.UWT,21.5,0,0.0,15,0,Time Trial
+2018-03-03,,race/strade-bianche/2018/result,Strade Bianche,IT,1.UWT,184.0,0,0.0,2990,155,12.3 km solo
+2018-02-24,4.0,race/omloop-het-nieuwsblad/2018/result,Omloop Het Nieuwsblad ME,BE,1.UWT,196.2,90,175.0,1652,58,2.2 km solo
+2019-09-15,29.0,race/gp-montreal/2019/result,Grand Prix Cycliste de Montréal,CA,1.UWT,219.6,6,20.0,4793,229,Sprint of 14 riders
+2019-09-13,5.0,race/gp-quebec/2019/result,Grand Prix Cycliste de Québec,CA,1.UWT,201.6,80,225.0,2508,64,Sprint of large group
+2019-08-04,4.0,race/ride-london-classic/2019/result,Prudential RideLondon-Surrey Classic,GB,1.UWT,167.0,90,175.0,1679,39,Sprint of 28 riders
+2019-07-28,8.0,race/tour-de-france/2019/stage-21,Tour de France | Stage 21,FR,2.UWT,128.0,18,0.0,781,10,Sprint of large group
+2019-07-27,101.0,race/tour-de-france/2019/stage-20,Tour de France | Stage 20,FR,2.UWT,59.5,0,0.0,2228,267,12 km solo
+2019-07-26,,race/tour-de-france/2019/stage-19,Tour de France | Stage 19,FR,2.UWT,89.0,0,0.0,2995,317,? - let us know!
+2019-07-25,107.0,race/tour-de-france/2019/stage-18,Tour de France | Stage 18,FR,2.UWT,208.0,0,0.0,5215,232,26 km solo
+2019-07-24,18.0,race/tour-de-france/2019/stage-17,Tour de France | Stage 17,FR,2.UWT,200.0,0,0.0,2472,85,14 km solo
+2019-07-23,8.0,race/tour-de-france/2019/stage-16,Tour de France | Stage 16,FR,2.UWT,177.0,18,0.0,1626,29,Sprint of large group
+2019-07-21,85.0,race/tour-de-france/2019/stage-15,Tour de France | Stage 15,FR,2.UWT,185.0,0,0.0,4345,365,9 km solo
+2019-07-20,75.0,race/tour-de-france/2019/stage-14,Tour de France | Stage 14,FR,2.UWT,111.0,0,0.0,3376,359,0.2 km solo
+2019-07-19,148.0,race/tour-de-france/2019/stage-13,Tour de France | Stage 13 (ITT),FR,2.UWT,27.2,0,0.0,391,33,Time Trial
+2019-07-18,10.0,race/tour-de-france/2019/stage-12,Tour de France | Stage 12,FR,2.UWT,209.5,10,0.0,3088,177,Sprint of 14 riders
+2019-07-17,28.0,race/tour-de-france/2019/stage-11,Tour de France | Stage 11,FR,2.UWT,167.0,0,0.0,1827,43,Sprint of large group
+2019-07-15,144.0,race/tour-de-france/2019/stage-10,Tour de France | Stage 10,FR,2.UWT,217.5,0,0.0,3031,85,Sprint of large group
+2019-07-14,5.0,race/tour-de-france/2019/stage-9,Tour de France | Stage 9,FR,2.UWT,170.5,32,5.0,2717,114,Sprint à deux
+2019-07-13,94.0,race/tour-de-france/2019/stage-8,Tour de France | Stage 8,FR,2.UWT,200.0,0,0.0,3844,189,14.1 km solo
+2019-07-12,8.0,race/tour-de-france/2019/stage-7,Tour de France | Stage 7,FR,2.UWT,230.0,18,0.0,2367,36,Sprint of large group
+2019-07-11,60.0,race/tour-de-france/2019/stage-6,Tour de France | Stage 6,FR,2.UWT,160.5,0,0.0,3944,329,0.1 km solo
+2019-07-10,9.0,race/tour-de-france/2019/stage-5,Tour de France | Stage 5,FR,2.UWT,175.5,14,0.0,2325,132,Sprint of large group
+2019-07-09,8.0,race/tour-de-france/2019/stage-4,Tour de France | Stage 4,FR,2.UWT,213.5,18,0.0,1555,32,Sprint of large group
+2019-07-08,3.0,race/tour-de-france/2019/stage-3,Tour de France | Stage 3,FR,2.UWT,215.0,50,25.0,2299,97,16 km solo
+2019-07-07,18.0,race/tour-de-france/2019/stage-2,Tour de France | Stage 2 (TTT),FR,2.UWT,27.6,0,0.0,267,7,Time Trial
+2019-07-06,10.0,race/tour-de-france/2019/stage-1,Tour de France | Stage 1,FR,2.UWT,194.5,10,0.0,1582,20,Sprint of large group
+2019-06-23,29.0,race/tour-de-suisse/2019/stage-9,Tour de Suisse | Stage 9,CH,2.UWT,101.5,0,0.0,3071,218,99.8 km solo
+2019-06-22,41.0,race/tour-de-suisse/2019/stage-8,Tour de Suisse | Stage 8 (ITT),CH,2.UWT,19.2,0,0.0,95,0,Time Trial
+2019-06-21,33.0,race/tour-de-suisse/2019/stage-7,Tour de Suisse | Stage 7,CH,2.UWT,216.6,0,0.0,4336,270,2.6 km solo
+2019-06-20,49.0,race/tour-de-suisse/2019/stage-6,Tour de Suisse | Stage 6,CH,2.UWT,120.2,0,0.0,1901,201,3 km solo
+2019-06-19,3.0,race/tour-de-suisse/2019/stage-5,Tour de Suisse | Stage 5,CH,2.UWT,177.0,18,10.0,2705,83,Sprint of large group
+2019-06-18,5.0,race/tour-de-suisse/2019/stage-4,Tour de Suisse | Stage 4,CH,2.UWT,163.9,10,0.0,1953,92,Sprint of large group
+2019-06-17,72.0,race/tour-de-suisse/2019/stage-3,Tour de Suisse | Stage 3,CH,2.UWT,162.3,0,0.0,1733,42,Sprint of large group
+2019-06-16,120.0,race/tour-de-suisse/2019/stage-2,Tour de Suisse | Stage 2,CH,2.UWT,159.6,0,0.0,2598,162,11.3 km solo
+2019-06-15,44.0,race/tour-de-suisse/2019/stage-1,Tour de Suisse | Stage 1 (ITT),CH,2.UWT,9.5,0,0.0,52,1,Time Trial
+2019-04-14,27.0,race/paris-roubaix/2019/result,Paris-Roubaix,FR,1.UWT,257.0,13,20.0,1334,5,Sprint à deux
+2019-04-07,19.0,race/ronde-van-vlaanderen/2019/result,Ronde van Vlaanderen - Tour des Flandres ME,BE,1.UWT,267.0,22,30.0,2164,72,17 km solo
+2019-04-03,14.0,race/dwars-door-vlaanderen/2019/result,Dwars door Vlaanderen - A travers la Flandre ME,BE,1.UWT,182.6,26,25.0,1213,47,Sprint of 21 riders
+2019-03-31,17.0,race/gent-wevelgem/2019/result,Gent-Wevelgem in Flanders Fields ME,BE,1.UWT,249.5,18,30.0,1511,37,Sprint of large group
+2019-03-29,58.0,race/e3-harelbeke/2019/result,E3 BinckBank Classic,BE,1.UWT,204.0,5,2.0,2619,79,Sprint of 44 riders
+2019-03-23,79.0,race/milano-sanremo/2019/result,Milano-Sanremo,IT,1.UWT,291.0,5,0.0,2060,60,Sprint of 41 riders
+2019-03-19,107.0,race/tirreno-adriatico/2019/stage-7,Tirreno-Adriatico | Stage 7 (ITT),IT,2.UWT,10.1,0,0.0,9,0,Time Trial
+2019-03-18,11.0,race/tirreno-adriatico/2019/stage-6,Tirreno-Adriatico | Stage 6,IT,2.UWT,195.0,0,0.0,2257,44,Sprint of large group
+2019-03-17,133.0,race/tirreno-adriatico/2019/stage-5,Tirreno-Adriatico | Stage 5,IT,2.UWT,180.0,0,0.0,2902,239,? km solo
+2019-03-16,64.0,race/tirreno-adriatico/2019/stage-4,Tirreno-Adriatico | Stage 4,IT,2.UWT,221.0,0,0.0,3350,179,Sprint of 13 riders
+2019-03-15,8.0,race/tirreno-adriatico/2019/stage-3,Tirreno-Adriatico | Stage 3,IT,2.UWT,226.0,3,0.0,2873,67,Sprint of large group
+2019-03-14,55.0,race/tirreno-adriatico/2019/stage-2,Tirreno-Adriatico | Stage 2,IT,2.UWT,195.0,0,0.0,2168,85,Sprint of large group
+2019-03-13,12.0,race/tirreno-adriatico/2019/stage-1,Tirreno-Adriatico | Stage 1 (TTT),IT,2.UWT,21.5,0,0.0,12,0,Time Trial
+2019-03-02,40.0,race/omloop-het-nieuwsblad/2019/result,Omloop Het Nieuwsblad ME,BE,1.UWT,200.0,5,5.0,1653,47,2.5 km solo
+2020-10-21,23.0,race/oxyclean-classic-brugge-de-panne/2020/result,AG Driedaagse Brugge-De Panne ME,BE,1.UWT,188.6,12,12.0,249,0,4 km solo
+2020-10-18,26.0,race/ronde-van-vlaanderen/2020/result,Ronde van Vlaanderen - Tour des Flandres ME,BE,1.UWT,243.3,14,20.0,2014,79,Sprint à deux
+2020-10-11,38.0,race/gent-wevelgem/2020/result,Gent-Wevelgem in Flanders Fields ME,BE,1.UWT,232.5,5,10.0,1360,33,Sprint of small group
+2020-09-27,,race/world-championship/2020/result,World Championships ME - Road Race,IT,WC,258.2,0,0.0,4662,208,12 km solo
+2020-09-20,19.0,race/tour-de-france/2020/stage-21,Tour de France | Stage 21,FR,2.UWT,122.0,0,0.0,816,11,Sprint of large group
+2020-09-19,132.0,race/tour-de-france/2020/stage-20,Tour de France | Stage 20 (ITT),FR,2.UWT,36.2,0,0.0,962,135,Time Trial
+2020-09-18,3.0,race/tour-de-france/2020/stage-19,Tour de France | Stage 19,FR,2.UWT,166.5,50,25.0,2208,77,16 km solo
+2020-09-17,71.0,race/tour-de-france/2020/stage-18,Tour de France | Stage 18,FR,2.UWT,175.0,0,0.0,5166,314,Other
+2020-09-16,103.0,race/tour-de-france/2020/stage-17,Tour de France | Stage 17,FR,2.UWT,170.0,0,0.0,4430,444,3.5 km solo
+2020-09-15,86.0,race/tour-de-france/2020/stage-16,Tour de France | Stage 16,FR,2.UWT,164.0,0,0.0,3903,250,25 km solo
+2020-09-13,113.0,race/tour-de-france/2020/stage-15,Tour de France | Stage 15,FR,2.UWT,174.5,0,0.0,3724,390,Sprint à deux
+2020-09-12,6.0,race/tour-de-france/2020/stage-14,Tour de France | Stage 14,FR,2.UWT,194.0,26,0.0,2646,73,3 km solo
+2020-09-11,60.0,race/tour-de-france/2020/stage-13,Tour de France | Stage 13,FR,2.UWT,191.5,0,0.0,4459,302,0.1 km solo
+2020-09-10,15.0,race/tour-de-france/2020/stage-12,Tour de France | Stage 12,FR,2.UWT,218.0,1,0.0,3389,142,28 km solo
+2020-09-09,38.0,race/tour-de-france/2020/stage-11,Tour de France | Stage 11,FR,2.UWT,166.5,0,0.0,1008,13,Sprint of large group
+2020-09-08,9.0,race/tour-de-france/2020/stage-10,Tour de France | Stage 10,FR,2.UWT,168.5,14,0.0,531,2,Sprint of large group
+2020-09-06,95.0,race/tour-de-france/2020/stage-9,Tour de France | Stage 9,FR,2.UWT,153.0,0,0.0,3500,239,Sprint of small group
+2020-09-05,163.0,race/tour-de-france/2020/stage-8,Tour de France | Stage 8,FR,2.UWT,141.0,0,0.0,3821,295,35 km solo
+2020-09-04,5.0,race/tour-de-france/2020/stage-7,Tour de France | Stage 7,FR,2.UWT,168.0,32,5.0,2011,47,Sprint of large group
+2020-09-03,99.0,race/tour-de-france/2020/stage-6,Tour de France | Stage 6,FR,2.UWT,191.0,0,0.0,3087,227,17 km solo
+2020-09-02,5.0,race/tour-de-france/2020/stage-5,Tour de France | Stage 5,FR,2.UWT,183.0,32,5.0,1388,31,Sprint of large group
+2020-09-01,111.0,race/tour-de-france/2020/stage-4,Tour de France | Stage 4,FR,2.UWT,160.5,0,0.0,3200,200,Sprint of small group
+2020-08-31,19.0,race/tour-de-france/2020/stage-3,Tour de France | Stage 3,FR,2.UWT,198.0,0,0.0,3003,81,Sprint of large group
+2020-08-30,57.0,race/tour-de-france/2020/stage-2,Tour de France | Stage 2,FR,2.UWT,185.0,0,0.0,4066,188,Sprint of small group
+2020-08-29,10.0,race/tour-de-france/2020/stage-1,Tour de France | Stage 1,FR,2.UWT,156.0,10,0.0,1597,46,Sprint of large group
+2020-08-09,14.0,race/tour-de-pologne/2020/stage-5,Tour de Pologne | Stage 5,PL,2.UWT,188.0,0,0.0,2196,56,Sprint of large group
+2020-08-08,50.0,race/tour-de-pologne/2020/stage-4,Tour de Pologne | Stage 4,PL,2.UWT,152.9,0,0.0,3026,176,52 km solo
+2020-08-07,7.0,race/tour-de-pologne/2020/stage-3,Tour de Pologne | Stage 3,PL,2.UWT,203.1,4,0.0,3311,122,Sprint of large group
+2020-08-06,23.0,race/tour-de-pologne/2020/stage-2,Tour de Pologne | Stage 2,PL,2.UWT,151.5,0,0.0,752,6,Sprint of large group
+2020-08-05,110.0,race/tour-de-pologne/2020/stage-1,Tour de Pologne | Stage 1,PL,2.UWT,195.8,0,0.0,1706,24,Sprint of large group
+2020-03-14,19.0,race/paris-nice/2020/stage-7,Paris - Nice | Stage 7,FR,2.UWT,166.5,0,0.0,3969,273,3.1 km solo
+2020-03-13,27.0,race/paris-nice/2020/stage-6,Paris - Nice | Stage 6,FR,2.UWT,161.5,0,0.0,2895,145,12.8 km solo
+2020-03-12,12.0,race/paris-nice/2020/stage-5,Paris - Nice | Stage 5,FR,2.UWT,227.0,0,0.0,2681,62,Sprint of large group
+2020-03-11,47.0,race/paris-nice/2020/stage-4,Paris - Nice | Stage 4 (ITT),FR,2.UWT,15.1,0,0.0,225,19,Time Trial
+2020-03-10,38.0,race/paris-nice/2020/stage-3,Paris - Nice | Stage 3,FR,2.UWT,212.5,0,0.0,1787,17,Sprint of large group
+2020-03-09,3.0,race/paris-nice/2020/stage-2,Paris - Nice | Stage 2,FR,2.UWT,166.5,18,10.0,1173,19,Sprint of 17 riders
+2020-03-08,15.0,race/paris-nice/2020/stage-1,Paris - Nice | Stage 1,FR,2.UWT,154.0,0,0.0,1501,58,Sprint of 25 riders
+2020-02-29,1.0,race/omloop-het-nieuwsblad/2020/result,Omloop Het Nieuwsblad ME,BE,1.UWT,200.0,225,300.0,1663,49,Sprint à deux
+2021-10-03,25.0,race/paris-roubaix/2021/result,Paris-Roubaix,FR,1.UWT,257.7,15,20.0,1360,5,Sprint of small group
+2021-09-26,4.0,race/world-championship/2021/result,World Championships ME - Road Race,BE,WC,268.3,150,325.0,2250,54,17.4 km solo
+2021-09-05,11.0,race/renewi-tour/2021/stage-7,Benelux Tour | Stage 7,BE,2.UWT,177.9,0,0.0,1353,59,? km solo
+2021-09-04,3.0,race/renewi-tour/2021/stage-6,Benelux Tour | Stage 6,BE,2.UWT,207.6,18,8.0,3001,140,25.6 km solo
+2021-09-03,5.0,race/renewi-tour/2021/stage-5,Benelux Tour | Stage 5,BE,2.UWT,192.0,10,0.0,1823,45,Sprint of large group
+2021-09-02,21.0,race/renewi-tour/2021/stage-4,Benelux Tour | Stage 4,BE,2.UWT,166.1,0,0.0,480,2,Sprint of large group
+2021-09-01,14.0,race/renewi-tour/2021/stage-3,Benelux Tour | Stage 3,BE,2.UWT,168.3,0,0.0,256,1,Sprint of small group
+2021-08-31,39.0,race/renewi-tour/2021/stage-2,Benelux Tour | Stage 2 (ITT),BE,2.UWT,11.1,0,0.0,3,0,Time Trial
+2021-08-30,31.0,race/renewi-tour/2021/stage-1,Benelux Tour | Stage 1,BE,2.UWT,169.6,0,0.0,87,0,Sprint of small group
+2021-08-29,7.0,race/bretagne-classic/2021/result,Bretagne Classic - Ouest-France,FR,1.UWT,251.0,60,120.0,3695,116,Sprint à deux
+2021-07-18,39.0,race/tour-de-france/2021/stage-21,Tour de France | Stage 21,FR,2.UWT,108.4,0,0.0,699,14,Sprint of large group
+2021-07-17,37.0,race/tour-de-france/2021/stage-20,Tour de France | Stage 20 (ITT),FR,2.UWT,30.8,0,0.0,246,8,Time Trial
+2021-07-16,10.0,race/tour-de-france/2021/stage-19,Tour de France | Stage 19,FR,2.UWT,207.0,10,0.0,1181,16,26 km solo
+2021-07-15,70.0,race/tour-de-france/2021/stage-18,Tour de France | Stage 18,FR,2.UWT,129.7,0,0.0,3561,367,0.6 km solo
+2021-07-14,68.0,race/tour-de-france/2021/stage-17,Tour de France | Stage 17,FR,2.UWT,178.4,0,0.0,4375,450,Sprint of small group
+2021-07-13,116.0,race/tour-de-france/2021/stage-16,Tour de France | Stage 16,FR,2.UWT,169.0,0,0.0,3260,177,34.6 km solo
+2021-07-11,44.0,race/tour-de-france/2021/stage-15,Tour de France | Stage 15,FR,2.UWT,191.3,0,0.0,4572,234,19.5 km solo
+2021-07-10,23.0,race/tour-de-france/2021/stage-14,Tour de France | Stage 14,FR,2.UWT,183.7,0,0.0,2877,125,42.7 km solo
+2021-07-09,10.0,race/tour-de-france/2021/stage-13,Tour de France | Stage 13,FR,2.UWT,219.9,10,0.0,2023,29,Sprint of large group
+2021-07-08,147.0,race/tour-de-france/2021/stage-12,Tour de France | Stage 12,FR,2.UWT,159.4,0,0.0,2052,52,11.8 km solo
+2021-07-07,102.0,race/tour-de-france/2021/stage-11,Tour de France | Stage 11,FR,2.UWT,198.9,0,0.0,4671,282,33.1 km solo
+2021-07-06,75.0,race/tour-de-france/2021/stage-10,Tour de France | Stage 10,FR,2.UWT,190.7,0,0.0,1488,29,Sprint of large group
+2021-07-04,25.0,race/tour-de-france/2021/stage-9,Tour de France | Stage 9,FR,2.UWT,144.9,0,0.0,4628,381,17.3 km solo
+2021-07-03,129.0,race/tour-de-france/2021/stage-8,Tour de France | Stage 8,FR,2.UWT,150.8,0,0.0,3557,310,15.4 km solo
+2021-07-02,2.0,race/tour-de-france/2021/stage-7,Tour de France | Stage 7,FR,2.UWT,249.1,70,50.0,3120,146,18 km solo
+2021-07-01,38.0,race/tour-de-france/2021/stage-6,Tour de France | Stage 6,FR,2.UWT,160.4,0,0.0,977,5,Sprint of large group
+2021-06-30,157.0,race/tour-de-france/2021/stage-5,Tour de France | Stage 5 (ITT),FR,2.UWT,27.2,0,0.0,356,17,Time Trial
+2021-06-29,64.0,race/tour-de-france/2021/stage-4,Tour de France | Stage 4,FR,2.UWT,150.4,0,0.0,1404,24,Sprint of large group
+2021-06-28,79.0,race/tour-de-france/2021/stage-3,Tour de France | Stage 3,FR,2.UWT,182.9,0,0.0,1534,34,Sprint of large group
+2021-06-27,143.0,race/tour-de-france/2021/stage-2,Tour de France | Stage 2,FR,2.UWT,183.5,0,0.0,2210,102,0.75 km solo
+2021-06-26,32.0,race/tour-de-france/2021/stage-1,Tour de France | Stage 1,FR,2.UWT,197.8,0,0.0,2843,109,2.2 km solo
+2021-06-06,61.0,race/dauphine/2021/stage-8,Critérium du Dauphiné | Stage 8,FR,2.UWT,147.0,0,0.0,4190,304,27.5 km solo
+2021-06-05,61.0,race/dauphine/2021/stage-7,Critérium du Dauphiné | Stage 7,FR,2.UWT,171.1,0,0.0,4163,368,4.7 km solo
+2021-06-04,99.0,race/dauphine/2021/stage-6,Critérium du Dauphiné | Stage 6,FR,2.UWT,167.2,0,0.0,2706,203,Sprint of small group
+2021-06-03,48.0,race/dauphine/2021/stage-5,Critérium du Dauphiné | Stage 5,FR,2.UWT,175.4,0,0.0,2209,93,0.95 km solo
+2021-06-02,70.0,race/dauphine/2021/stage-4,Critérium du Dauphiné | Stage 4 (ITT),FR,2.UWT,16.4,0,0.0,317,29,Time Trial
+2021-06-01,4.0,race/dauphine/2021/stage-3,Critérium du Dauphiné | Stage 3,FR,2.UWT,172.2,13,0.0,2096,41,Sprint of large group
+2021-05-31,77.0,race/dauphine/2021/stage-2,Critérium du Dauphiné | Stage 2,FR,2.UWT,172.8,0,0.0,3224,152,17.3 km solo
+2021-05-30,4.0,race/dauphine/2021/stage-1,Critérium du Dauphiné | Stage 1,FR,2.UWT,181.8,13,0.0,2308,82,16.6 km solo
+2021-04-18,,race/amstel-gold-race/2021/result,Amstel Gold Race,NL,1.UWT,218.6,0,0.0,2893,81,Sprint of small group
+2021-04-04,4.0,race/ronde-van-vlaanderen/2021/result,Ronde van Vlaanderen - Tour des Flandres ME,BE,1.UWT,254.3,120,275.0,2198,81,Sprint à deux
+2021-03-31,10.0,race/dwars-door-vlaanderen/2021/result,Dwars door Vlaanderen - A travers la Flandre ME,BE,1.UWT,184.1,42,50.0,1446,55,58 km solo
+2021-03-28,,race/gent-wevelgem/2021/result,Gent-Wevelgem in Flanders Fields ME,BE,1.UWT,250.0,0,0.0,1425,36,Sprint of small group
+2021-03-26,14.0,race/e3-harelbeke/2021/result,E3 Saxo Bank Classic,BE,1.UWT,203.9,26,32.0,2000,59,5 km solo
+2021-03-20,1.0,race/milano-sanremo/2021/result,Milano-Sanremo,IT,1.UWT,299.0,275,500.0,2020,59,Sprint à deux
+2021-03-14,57.0,race/paris-nice/2021/stage-8,Paris - Nice | Stage 8,FR,2.UWT,92.7,0,0.0,2007,167,Sprint of small group
+2021-03-13,63.0,race/paris-nice/2021/stage-7,Paris - Nice | Stage 7,FR,2.UWT,119.2,0,0.0,3127,251,Sprint of small group
+2021-03-12,43.0,race/paris-nice/2021/stage-6,Paris - Nice | Stage 6,FR,2.UWT,202.4,0,0.0,3181,125,Sprint of large group
+2021-03-11,36.0,race/paris-nice/2021/stage-5,Paris - Nice | Stage 5,FR,2.UWT,200.2,0,0.0,926,18,Sprint of large group
+2021-03-10,76.0,race/paris-nice/2021/stage-4,Paris - Nice | Stage 4,FR,2.UWT,187.6,0,0.0,3540,239,3 km solo
+2021-03-09,74.0,race/paris-nice/2021/stage-3,Paris - Nice | Stage 3 (ITT),FR,2.UWT,14.4,0,0.0,102,13,Time Trial
+2021-03-08,14.0,race/paris-nice/2021/stage-2,Paris - Nice | Stage 2,FR,2.UWT,188.0,0,0.0,1057,8,Sprint of large group
+2021-03-07,31.0,race/paris-nice/2021/stage-1,Paris - Nice | Stage 1,FR,2.UWT,165.8,0,0.0,1525,49,Sprint of large group
+2021-02-27,83.0,race/omloop-het-nieuwsblad/2021/result,Omloop Het Nieuwsblad ME,BE,1.UWT,200.5,5,0.0,1654,47,Sprint of large group
+2022-09-25,47.0,race/world-championship/2022/result,World Championships ME - Road Race,AU,WC,266.9,15,10.0,4167,160,25.8 km solo
+2022-09-11,62.0,race/gp-montreal/2022/result,Grand Prix Cycliste de Montréal,CA,1.UWT,221.4,5,0.0,4124,182,Sprint of small group
+2022-09-09,76.0,race/gp-quebec/2022/result,Grand Prix Cycliste de Québec,CA,1.UWT,201.6,5,0.0,2508,60,2.1 km solo
+2022-07-24,4.0,race/tour-de-france/2022/stage-21,Tour de France | Stage 21,FR,2.UWT,115.6,40,15.0,748,13,Sprint of large group
+2022-07-23,90.0,race/tour-de-france/2022/stage-20,Tour de France | Stage 20 (ITT),FR,2.UWT,40.7,0,0.0,434,39,Time Trial
+2022-07-22,41.0,race/tour-de-france/2022/stage-19,Tour de France | Stage 19,FR,2.UWT,188.3,0,0.0,1316,35,0.4 km solo
+2022-07-21,120.0,race/tour-de-france/2022/stage-18,Tour de France | Stage 18,FR,2.UWT,143.2,0,0.0,4036,408,3.6 km solo
+2022-07-20,65.0,race/tour-de-france/2022/stage-17,Tour de France | Stage 17,FR,2.UWT,129.7,0,0.0,3364,324,Sprint à deux
+2022-07-19,93.0,race/tour-de-france/2022/stage-16,Tour de France | Stage 16,FR,2.UWT,178.5,0,0.0,3418,204,39 km solo
+2022-07-17,18.0,race/tour-de-france/2022/stage-15,Tour de France | Stage 15,FR,2.UWT,202.5,0,0.0,2416,64,Sprint of large group
+2022-07-16,135.0,race/tour-de-france/2022/stage-14,Tour de France | Stage 14,FR,2.UWT,192.5,0,0.0,3441,170,1.9 km solo
+2022-07-15,88.0,race/tour-de-france/2022/stage-13,Tour de France | Stage 13,FR,2.UWT,192.6,0,0.0,2109,78,Sprint of small group
+2022-07-14,80.0,race/tour-de-france/2022/stage-12,Tour de France | Stage 12,FR,2.UWT,165.1,0,0.0,4660,389,11 km solo
+2022-07-13,147.0,race/tour-de-france/2022/stage-11,Tour de France | Stage 11,FR,2.UWT,151.7,0,0.0,4070,400,3.9 km solo
+2022-07-12,138.0,race/tour-de-france/2022/stage-10,Tour de France | Stage 10,FR,2.UWT,148.1,0,0.0,2733,143,Sprint of small group
+2022-07-10,78.0,race/tour-de-france/2022/stage-9,Tour de France | Stage 9,FR,2.UWT,192.9,0,0.0,3743,223,60.5 km solo
+2022-07-09,64.0,race/tour-de-france/2022/stage-8,Tour de France | Stage 8,FR,2.UWT,186.3,0,0.0,2556,87,Sprint of small group
+2022-07-08,129.0,race/tour-de-france/2022/stage-7,Tour de France | Stage 7,FR,2.UWT,176.3,0,0.0,2526,192,Sprint à deux
+2022-07-07,118.0,race/tour-de-france/2022/stage-6,Tour de France | Stage 6,FR,2.UWT,219.9,0,0.0,2477,85,Sprint of small group
+2022-07-06,6.0,race/tour-de-france/2022/stage-5,Tour de France | Stage 5,FR,2.UWT,157.0,26,0.0,601,1,Sprint of small group
+2022-07-05,33.0,race/tour-de-france/2022/stage-4,Tour de France | Stage 4,FR,2.UWT,171.5,0,0.0,1785,63,11.6 km solo
+2022-07-03,14.0,race/tour-de-france/2022/stage-3,Tour de France | Stage 3,FR,2.UWT,182.0,2,0.0,1280,16,Sprint of large group
+2022-07-02,14.0,race/tour-de-france/2022/stage-2,Tour de France | Stage 2,FR,2.UWT,202.2,2,0.0,1149,11,Sprint of large group
+2022-07-01,48.0,race/tour-de-france/2022/stage-1,Tour de France | Stage 1 (ITT),FR,2.UWT,13.2,0,0.0,21,0,Time Trial
+2022-06-12,,race/dauphine/2022/stage-8,Critérium du Dauphiné | Stage 8,FR,2.UWT,138.8,0,0.0,3782,375,Other
+2022-06-11,95.0,race/dauphine/2022/stage-7,Critérium du Dauphiné | Stage 7,FR,2.UWT,134.8,0,0.0,3828,311,5.7 km solo
+2022-06-10,16.0,race/dauphine/2022/stage-6,Critérium du Dauphiné | Stage 6,FR,2.UWT,196.5,0,0.0,2958,74,0.7 km solo
+2022-06-09,6.0,race/dauphine/2022/stage-5,Critérium du Dauphiné | Stage 5,FR,2.UWT,162.3,7,0.0,1991,60,Sprint of large group
+2022-06-08,58.0,race/dauphine/2022/stage-4,Critérium du Dauphiné | Stage 4 (ITT),FR,2.UWT,31.9,0,0.0,96,1,Time Trial
+2022-06-07,112.0,race/dauphine/2022/stage-3,Critérium du Dauphiné | Stage 3,FR,2.UWT,169.0,0,0.0,2707,140,Sprint of small group
+2022-06-06,12.0,race/dauphine/2022/stage-2,Critérium du Dauphiné | Stage 2,FR,2.UWT,169.8,0,0.0,2956,91,Sprint of small group
+2022-06-05,6.0,race/dauphine/2022/stage-1,Critérium du Dauphiné | Stage 1,FR,2.UWT,191.8,7,0.0,2473,74,Sprint of large group
+2022-04-17,7.0,race/paris-roubaix/2022/result,Paris-Roubaix,FR,1.UWT,257.2,80,150.0,1362,5,19.5 km solo
+2022-04-03,50.0,race/ronde-van-vlaanderen/2022/result,Ronde van Vlaanderen - Tour des Flandres ME,BE,1.UWT,272.5,5,10.0,2289,79,Sprint of small group
+2022-03-27,4.0,race/gent-wevelgem/2022/result,Gent-Wevelgem in Flanders Fields ME,BE,1.UWT,248.8,90,275.0,1377,35,Sprint of small group
+2022-03-25,15.0,race/e3-harelbeke/2022/result,E3 Saxo Bank Classic,BE,1.UWT,203.9,22,28.0,2010,59,Other
+2022-03-23,9.0,race/oxyclean-classic-brugge-de-panne/2022/result,Minerva Classic Brugge-De Panne,BE,1.UWT,207.9,46,60.0,246,0,Sprint of large group
+2022-03-13,21.0,race/paris-nice/2022/stage-8,Paris - Nice | Stage 8,FR,2.UWT,115.6,0,0.0,2436,184,19.2 km solo
+2022-03-12,70.0,race/paris-nice/2022/stage-7,Paris - Nice | Stage 7,FR,2.UWT,155.2,0,0.0,3582,303,Sprint of small group
+2022-03-11,12.0,race/paris-nice/2022/stage-6,Paris - Nice | Stage 6,FR,2.UWT,213.6,0,0.0,2878,97,9.1 km solo
+2022-03-10,85.0,race/paris-nice/2022/stage-5,Paris - Nice | Stage 5,FR,2.UWT,188.8,0,0.0,3408,188,38.7 km solo
+2022-03-09,34.0,race/paris-nice/2022/stage-4,Paris - Nice | Stage 4 (ITT),FR,2.UWT,13.4,0,0.0,188,18,Time Trial
+2022-03-08,18.0,race/paris-nice/2022/stage-3,Paris - Nice | Stage 3,FR,2.UWT,190.8,0,0.0,1929,63,Sprint of large group
+2022-03-07,6.0,race/paris-nice/2022/stage-2,Paris - Nice | Stage 2,FR,2.UWT,159.2,7,0.0,707,8,Sprint of large group
+2022-03-06,11.0,race/paris-nice/2022/stage-1,Paris - Nice | Stage 1,FR,2.UWT,159.8,0,0.0,1723,56,Other
+2022-02-26,10.0,race/omloop-het-nieuwsblad/2022/result,Omloop Het Nieuwsblad ME,BE,1.UWT,204.2,42,50.0,1666,49,13 km solo
+2023-08-06,6.0,race/world-championship/2023/result,World Championships ME - Road Race,GB,WC,271.1,110,340.0,3385,73,22.3 km solo
+2023-07-23,42.0,race/tour-de-france/2023/stage-21,Tour de France | Stage 21,FR,2.UWT,115.1,0,0.0,577,14,Sprint of large group
+2023-07-22,120.0,race/tour-de-france/2023/stage-20,Tour de France | Stage 20,FR,2.UWT,133.5,0,0.0,3471,303,Sprint of 5 riders
+2023-07-21,100.0,race/tour-de-france/2023/stage-19,Tour de France | Stage 19,FR,2.UWT,172.8,0,0.0,1934,50,Sprint of 3 riders
+2023-07-20,22.0,race/tour-de-france/2023/stage-18,Tour de France | Stage 18,FR,2.UWT,184.9,0,0.0,1216,18,Sprint of small group
+2023-07-19,111.0,race/tour-de-france/2023/stage-17,Tour de France | Stage 17,FR,2.UWT,165.7,0,0.0,5399,445,13.1 km solo
+2023-07-18,41.0,race/tour-de-france/2023/stage-16,Tour de France | Stage 16 (ITT),FR,2.UWT,22.4,0,0.0,636,109,? - let us know!
+2023-07-16,73.0,race/tour-de-france/2023/stage-15,Tour de France | Stage 15,FR,2.UWT,179.0,0,0.0,4483,335,10.8 km solo
+2023-07-15,128.0,race/tour-de-france/2023/stage-14,Tour de France | Stage 14,FR,2.UWT,151.8,0,0.0,4281,308,8 km solo
+2023-07-14,61.0,race/tour-de-france/2023/stage-13,Tour de France | Stage 13,FR,2.UWT,137.8,0,0.0,2413,260,11.7 km solo
+2023-07-13,15.0,race/tour-de-france/2023/stage-12,Tour de France | Stage 12,FR,2.UWT,168.8,1,5.0,3120,147,30.8 km solo
+2023-07-12,34.0,race/tour-de-france/2023/stage-11,Tour de France | Stage 11,FR,2.UWT,179.3,0,0.0,1873,34,Sprint of large group
+2023-07-11,11.0,race/tour-de-france/2023/stage-10,Tour de France | Stage 10,FR,2.UWT,167.2,8,25.0,3151,118,Sprint of small group
+2023-07-09,101.0,race/tour-de-france/2023/stage-9,Tour de France | Stage 9,FR,2.UWT,182.4,0,0.0,3441,273,0.44 km solo
+2023-07-08,41.0,race/tour-de-france/2023/stage-8,Tour de France | Stage 8,FR,2.UWT,200.7,0,0.0,1996,61,Sprint of large group
+2023-07-07,41.0,race/tour-de-france/2023/stage-7,Tour de France | Stage 7,FR,2.UWT,169.9,0,0.0,808,7,Sprint of large group
+2023-07-06,62.0,race/tour-de-france/2023/stage-6,Tour de France | Stage 6,FR,2.UWT,144.9,0,0.0,3894,310,2.7 km solo
+2023-07-05,127.0,race/tour-de-france/2023/stage-5,Tour de France | Stage 5,FR,2.UWT,162.7,0,0.0,3652,239,20.2 km solo
+2023-07-04,32.0,race/tour-de-france/2023/stage-4,Tour de France | Stage 4,FR,2.UWT,181.8,0,0.0,1427,20,Sprint of large group
+2023-07-03,32.0,race/tour-de-france/2023/stage-3,Tour de France | Stage 3,FR,2.UWT,193.5,0,0.0,2667,68,Sprint of large group
+2023-07-02,101.0,race/tour-de-france/2023/stage-2,Tour de France | Stage 2,FR,2.UWT,208.9,0,0.0,2949,141,0.95 km solo
+2023-07-01,125.0,race/tour-de-france/2023/stage-1,Tour de France | Stage 1,FR,2.UWT,182.0,0,0.0,3221,166,0.35 km solo
+2023-04-09,20.0,race/paris-roubaix/2023/result,Paris-Roubaix,FR,1.UWT,256.6,20,50.0,1380,4,15.1 km solo
+2023-04-02,26.0,race/ronde-van-vlaanderen/2023/result,Ronde van Vlaanderen - Tour des Flandres,BE,1.UWT,273.4,14,30.0,2185,76,17 km solo
+2023-03-29,34.0,race/dwars-door-vlaanderen/2023/result,Dwars door Vlaanderen - A travers la Flandre ME,BE,1.UWT,183.7,5,5.0,1459,44,4 km solo
+2023-03-26,36.0,race/gent-wevelgem/2023/result,Gent-Wevelgem in Flanders Fields ME,BE,1.UWT,260.9,5,10.0,1375,34,Other
+2023-03-24,50.0,race/e3-harelbeke/2023/result,E3 Saxo Classic,BE,1.UWT,204.1,5,8.0,2017,58,Sprint of small group
+2023-03-18,10.0,race/milano-sanremo/2023/result,Milano-Sanremo,IT,1.UWT,294.0,50,135.0,2154,63,5.5 km solo
+2023-02-25,58.0,race/omloop-het-nieuwsblad/2023/result,Omloop Het Nieuwsblad ME,BE,1.UWT,207.3,5,1.0,1616,52,16.5 km solo
